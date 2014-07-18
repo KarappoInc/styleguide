@@ -1,10 +1,8 @@
-# Style guides in COOKPAD
+# Style guides in Karappo Inc.
 
 ## Guides
 
-- Ruby ([Japanese](ruby.ja.md), [English](ruby.en.md))
-- Objective-C ([Japanese](objective-c.ja.md))
-- Java ([Japanese](java.ja.md))
+- HTML/CSS/Javascript ([Japanese](html.ja.md))
 
 ## Keywords
 
