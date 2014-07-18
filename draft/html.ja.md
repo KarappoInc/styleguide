@@ -1,24 +1,7 @@
 # 目次
 
-- [Ruby バージョン](#ruby-version)
 - [インデント](#indentation)
-- [空白](#whitespaces)
-- [空行](#empty-lines)
-- [文字エンコーディングとマジックコメント](#character-encoding-and-magic-comments)
-- [1行の文字数](#line-columns)
-- [数値](#numbers)
-- [文字列](#strings)
-- [正規表現](#regular-expressions)
-- [配列](#arrays)
-- [ハッシュ](#hashes)
-- [演算式](#operations)
-- [代入式](#assignments)
-- [制御構造](#control-structures)
-- [メソッド呼び出し](#method-calls)
-- [BEGIN と END](#begin-and-end)
-- [モジュールとクラスの定義](#module-and-class-definitions)
-- [メソッドの定義](#method-definitions)
-- [変数](#variables)
+
 
 # HTML/CSS コーディング・ガイドライン
 
