@@ -131,4 +131,4 @@
 
 ## 構文チェック
 
-- **[MUST]** [Markup Validation Service](http://validator.w3.org/)などを使って、構文チェックをすること。
+- **[MUST]** [Markup Validation Service](http://validator.w3.org/)などを使って、構文チェックをすること
