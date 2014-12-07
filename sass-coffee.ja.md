@@ -36,17 +36,17 @@ sass_options = { sourcemap: true }
 
 **GOOD**
 ```html
-<div class="nav">
+<div class="wrap">
 </div>
 ```
 ```sass
-.nav
+.wrap
   @extend .clf
 ```
 
 **BAD**
 ```html
-<div class="nav clf">
+<div class="wrap clf">
 </div>
 ```
 
