@@ -1,4 +1,4 @@
-# Sass,Coffeescript コーディング・ガイドライン
+# Sass/Coffeescript コーディング・ガイドライン
 
 ## はじめに
 
