@@ -7,15 +7,12 @@ HTML・CSSの基本部分は[HTML/CSS コーディング・ガイドライン](.
 
 ## 目次
 
-<!-- MarkdownTOC  -->
-
-- [body要素のclassおよびid属性](#body要素のclassおよびid属性)
+- [body要素のclassおよびid属性](#body_class_id)
 - [clearfix](#clearfix)
-- [ディレクトリ構成](#ディレクトリ構成)
-
-<!-- /MarkdownTOC -->
+- [ディレクトリ構成](#directory)
 
 
+<a name="body_class_id"></a>
 ## body要素のclassおよびid属性
 
 スタイル定義のためのクラス属性は極力避け、意味的な記述を心がけることで、HTMLをシンプルに保つ。
@@ -30,6 +27,7 @@ config.rb
 sass_options = { sourcemap: true }
 ```
 
+<a name="clearfix"></a>
 ## clearfix
 
 - **[MUST]** sassのextendを使う  
@@ -52,6 +50,7 @@ sass_options = { sourcemap: true }
 </div>
 ```
 
+<a name="directory"></a>
 ## ディレクトリ構成
 
 - **[MUST]** 以下の構成に従う
