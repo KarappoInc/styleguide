@@ -71,6 +71,11 @@
 
 ```
 .
+├─ _assets
+│   ├── database
+│   │　　├── create_backup.sh
+│   │　　└── backup.sql
+│   └── design.psd
 ├─ img
 │   └── logo.png
 ├─ lib
@@ -88,6 +93,7 @@
 
 | directory  | contents          |
 |:---------- |:----------------- |
+| _assets    | サイト上では直接参照しないが、バージョン管理に含めたいファイルなどを格納。         |
 | img        | 画像ファイル         |
 | lib        | ライブラリファイル。複数のファイルを含むライブラリの場合は、ディレクトリにまとめる。        |
 | script     | Javascriptファイル  |

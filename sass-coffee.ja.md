@@ -58,6 +58,11 @@ sass_options = { sourcemap: true }
 
 ```
 .
+├─ _assets
+│   ├── database
+│   │　　├── create_backup.sh
+│   │　　└── backup.sql
+│   └── design.psd
 ├─ img
 │   └── logo.png
 ├─ lib
