@@ -70,9 +70,10 @@ sass_options = { sourcemap: true }
 │   ├── _src
 │   │　　└── common.js.coffee
 │   └── common.js
-└─ style
-    ├── _src
-    │　　├── config.rb
-    │　　└── common.css.sass
-    └── common.css
+├─ style
+│   ├── _src
+│   │　　├── config.rb
+│   │　　└── common.css.sass
+│   └── common.css
+└─ index.html
 ```

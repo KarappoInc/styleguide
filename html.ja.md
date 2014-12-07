@@ -81,8 +81,9 @@
 │   └── PIE.htc
 ├─ script
 │   └── common.js
-└─ style
-    └── common.css
+├─ style
+│   └── common.css
+└─ index.html
 ```
 
 | directory  | contents          |
