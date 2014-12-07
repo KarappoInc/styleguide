@@ -31,7 +31,7 @@ sass_options = { sourcemap: true }
 ## clearfix
 
 - **[MUST]** sassのextendを使う  
-理由：スタイル定義は、極力CSSに集約し、HTML側には記述しない
+理由：スタイル定義は、極力CSSに集約し、HTML側には記述しないという全体方針に沿う
 
 
 **GOOD**
