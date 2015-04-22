@@ -3,7 +3,7 @@
 ## Guides
 
 - [HTML/CSS](html.ja.md)
-- [Sass/Coffeescript](html.ja.md)
+- [Sass/Coffeescript](sass-coffee.ja.md)
 
 ## Keywords
 
