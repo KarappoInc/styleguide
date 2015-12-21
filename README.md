@@ -2,6 +2,7 @@
 
 ## Guides
 
+- [Git](git.ja.md)
 - [HTML/CSS](html.ja.md)
 - [Sass/Coffeescript](sass-coffee.ja.md)
 
