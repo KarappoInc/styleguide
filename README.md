@@ -25,7 +25,7 @@ The other developers
 
 Assignee of PR
 
-- Merge or close the PR
+- Accept or deny the PR
 - **[MUST]** Create a commit even if merge resolved via first-forward (git merge -no-ff new-draft)
 
 ## License
