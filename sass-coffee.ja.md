@@ -30,7 +30,7 @@ sass_options = { sourcemap: true }
 <a name="clearfix"></a>
 ## clearfix
 
-- **[MUST]** sassのextendを使う  
+- **[MUST]** sassのextendを使う
 理由：スタイル定義は、極力CSSに集約し、HTML側には記述しないという全体方針に沿う
 
 
@@ -53,7 +53,7 @@ sass_options = { sourcemap: true }
 <a name="directory"></a>
 ## ディレクトリ構成
 
-- **[MUST]** 以下の構成に従う
+- **[SHOULD]** 以下の構成に従う
 
 ```
 .
