@@ -29,6 +29,10 @@ Assignee of PR
 - Accept or deny the PR
 - **[MUST]** Create a commit even if merge resolved via first-forward (git merge -no-ff new-draft)
 
+## Draft
+
+You can use `/draft` dir for your drafts.
+
 ## License
 
 [Creative Commons Attribution (CC-BY 3.0)](http://creativecommons.org/licenses/by/3.0/)
