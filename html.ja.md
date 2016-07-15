@@ -15,6 +15,7 @@
 - [ディレクトリ構成](#directory)
 - [画像ファイル名](#image_name)
 - [構文チェック](#validate)
+- [メールアドレスの書き方](#email)
 
 
 <a name="encoding"></a>
@@ -142,3 +143,12 @@
 ## 構文チェック
 
 - **[MUST]** [Markup Validation Service](http://validator.w3.org/)などを使って、構文チェックをすること
+
+<a name="email"></a>
+## メールアドレスの書き方
+
+- **[MUST]** スパムメール対策として、直接メールアドレスを記述することは避ける。ただし、閲覧者が簡単にコピペできることを考慮して下記のように記述する。
+
+```
+info@<span style="display: none;">Anti-Spam</span>example.com
+```
