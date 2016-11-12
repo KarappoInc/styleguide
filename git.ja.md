@@ -13,12 +13,12 @@
 ## 頻出ワード
 
 
-### cleanup(: xxx)
+### Cleanup(: xxx)
 
 例：
 
-- `cleanup`
-- `cleanup: remove trailing white spaces`
+- `Cleanup`
+- `Cleanup: remove trailing white spaces`
 
 リファクタリング未満の極単純なコード整理。そのコミットが動作に影響を及ぼさない場合にのみ使用することで、ログを遡る時に無視することができる。
 
@@ -26,7 +26,7 @@
 
 例：
 
-- `fix typo`
+- `Fix typo`
 
 綴り間違いや漢字変換ミスなどの修正をした際に使用。
 
@@ -35,6 +35,6 @@
 
 例：
 
-- `wip: use babel`
+- `WIP: use babel`
 
 `Work In Progress`の略。まだ修正の途中でコミットしたい時に使う。この時点では正常動作しないことが明示される利点がある。**[SHOULD] ただし、実装完了した段階で`rebase -i`でcommitをまとめ、メッセージを修正するべきである。**
