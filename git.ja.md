@@ -7,10 +7,17 @@
 
 ## 目次
 
+- [Issue 番号を書く](#issue-number)
 - [頻出ワード](#frequent-words)
 
-<a name="multiple-lines"></a>
-## 複数行に渡るメッセージ
+<a name="issue-number"></a>
+## Issue番号を書く
+
+関連するIssueがある場合は、必ずIssue番号(`#123`など）を付けること。そうすると、Issueにコメントのような形で紐付き、後でIssueに対応するコミットを辿りやすくなる。
+前後には必ず半角スペースを入れること。複数のIssue Numberを書くこともできる。
+
+**書き忘れてpushしてしまった場合**
+仕方がないので、Issueページにコメントとして、コミットのSHA1を貼り付けておくこと。
 
 
 <a name="frequent-words"></a>
