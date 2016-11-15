@@ -9,6 +9,10 @@
 
 - [頻出ワード](#frequent-words)
 
+<a name="multiple-lines"></a>
+## 複数行に渡るメッセージ
+
+
 <a name="frequent-words"></a>
 ## 頻出ワード
 
@@ -27,6 +31,7 @@
 例：
 
 - `Fix typo`
+- `Fix: Style breaking in about page`
 
 綴り間違いや漢字変換ミスなどの修正をした際に使用。
 
